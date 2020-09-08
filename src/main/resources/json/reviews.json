@@ -1,0 +1,133 @@
+[
+	{
+		"appuser": {
+			"id": 9
+		},
+		"restaurant": {
+			"id": 1
+		},
+		"comment": "Good service five dollar Margaritas on Wednesday",
+		"rating": 4
+	},
+	{
+		"appuser": {
+			"id": 10
+		},
+		"restaurant": {
+			"id": 1
+		},
+		"comment": "Good service, great food and great Margaritas ",
+		"rating": 5
+	},
+	{
+		"appuser": {
+			"id": 9
+		},
+		"restaurant": {
+			"id": 1
+		},
+		"comment": "Go for the five dollar Margaritas on Wednesday",
+		"rating": 5
+	},
+	{
+		"appuser": {
+			"id": 10
+		},
+		"restaurant": {
+			"id": 3
+		},
+		"comment": "It was okay",
+		"rating": 2
+	},
+	{
+		"appuser": {
+			"id": 9
+		},
+		"restaurant": {
+			"id": 4
+		},
+		"comment": "The wrack is is a good sandwich and to try the shakes",
+		"rating": 4
+	},
+	{
+		"appuser": {
+			"id": 10
+		},
+		"restaurant": {
+			"id": 5
+		},
+		"comment": "The tacos and barritos are good, BYO booze",
+		"rating": 3
+	},
+	{
+		"appuser": {
+			"id": 10
+		},
+		"restaurant": {
+			"id": 2
+		},
+		"comment": "They deliver freaky fast",
+		"rating": 4
+	},
+	{
+		"appuser": {
+			"id": 9
+		},
+		"restaurant": {
+			"id": 6
+		},
+		"comment": "The Beef Kabobs are really good",
+		"rating": 3
+	},
+	{
+		"appuser": {
+			"id": 9
+		},
+		"restaurant": {
+			"id": 7
+		},
+		"comment": "Nice and juicy burgers",
+		"rating": 3
+	},
+	{
+		"appuser": {
+			"id": 10
+		},
+		"restaurant": {
+			"id": 8
+		},
+		"comment": "The burgers are flamed broiled and taste great",
+		"rating": 4
+	},
+	{
+		"appuser": {
+			"id": 9
+		},
+		"restaurant": {
+			"id": 8
+		},
+		"comment": "The burgers were good but the fries were to salty",
+		"rating": 3
+	},
+	{
+		"appuser": {
+			"id": 11
+		},
+		"restaurant": {
+			"id": 8
+		},
+		"comment": "The burgers are great, Wish they also offered turkey burgers",
+		"rating": 4
+	},
+	{
+		"appuser": {
+			"id": 12
+		},
+		"restaurant": {
+			"id": 8
+		},
+		"comment": "The burgers and shakes are better than Steak & Shake",
+		"rating": 4
+	}
+]
+ 
